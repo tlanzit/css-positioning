@@ -1,0 +1,48 @@
+#bento{
+  border: 5px solid darkgrey;
+  width: 50em;
+  margin: 0 auto;
+  position: relative;
+  text-align: center;
+  line-height: 10em;
+  }
+  .box1 {
+  background: mediumslateblue;
+  margin: 0;
+  height: 10em;
+  width: 25em;
+  postion: absolute;
+  top: 0em;
+  left: 0em;
+  }
+  .box2{
+   background: mediumpurple;
+   margin: 0;
+   height: 10em;
+   width: 25em;
+   position: absolute;
+   top: 0em;
+   right: 0em;
+  }
+.box3{
+ background: purple;
+ margin: 0;
+ height: 10em;
+ width: 25em;
+ position: static;
+}
+.box4{
+ background: plum;
+ margin: 0;
+ height: 10em;
+ width: 25em;
+ position: absolute;
+ bottom: 0em;
+ right: 0em;
+}
+h1{
+  font-size: 3em;
+  color: white;
+  margin: 0;
+  bottom: 0;
+}
